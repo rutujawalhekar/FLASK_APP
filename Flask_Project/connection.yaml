@@ -1,0 +1,8 @@
+user: 'postgresuser'
+password: 'postgrespassword'
+host: 'localhost'
+database: 'flaskapp'
+
+
+
+
